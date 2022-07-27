@@ -1,2 +1,2 @@
 # sample-MVI
- android simple MVI architechture
+ Android simple MVI architechture with dagger 2 Dependency Injection
